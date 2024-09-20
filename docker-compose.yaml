@@ -1,0 +1,15 @@
+services:
+  container1:
+    image: rutvikvaghani/container1:latest
+    container_name: container1
+    ports:
+      - "8080:8080"
+    volumes:
+      - ".:/container1/data"
+  container2:
+    image: rutvikvaghani/container2:latest
+    container_name: container2
+    ports:
+      - "9090:9090"
+    volumes:
+      - ".:/container2/data"

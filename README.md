@@ -15,7 +15,8 @@ This project involves building a robust, cloud-native CI/CD pipeline and deployi
 
 ## Architecture Diagram 🏗️
 
-![Architecture Diagram](screenshots/architecture_image.png)
+![K8s](https://github.com/user-attachments/assets/e2d635f5-e30b-4ac1-abe2-7d09d8c69587)
+
 
 ## Features 📋
 
